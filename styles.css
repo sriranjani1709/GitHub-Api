@@ -1,0 +1,65 @@
+/************************TAG SELECTORS**********************/
+
+body {
+  background-color: #09173f;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+div {
+  padding: 0.4%;
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+/**********************CLASS SELECTORS*********************/
+
+.icon {
+  width: 7%;
+  height: 7%;
+  justify-content: center;
+  padding-bottom: 2%;
+}
+
+.heading {
+  color: white;
+}
+
+.middiv {
+  width: 27%;
+  background-color: #161b22;
+  border: 1px grey solid;
+}
+
+.username {
+  display: block;
+  font-weight: 400;
+  margin-bottom: 7px;
+  color: white;
+  text-align: left;
+}
+
+.welcome {
+  color: whitesmoke;
+  text-align: center;
+  margin-bottom: 2%;
+}
+.container {
+  width: 100%;
+}
+
+.signin {
+  width: fit-content;
+  margin-top: 3%;
+  padding-bottom: 1%;
+}
+
+.avatar {
+  margin-bottom: 2%;
+}
